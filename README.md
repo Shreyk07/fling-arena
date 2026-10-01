@@ -39,7 +39,3 @@ python -m http.server 8000
 - Single `index.html` (~2000 lines) + vendored `peerjs.min.js` — that's the whole site.
 - Canvas rendering: gradient arena, animated energy boundary, starfield, fighter sprites, particles, screen shake.
 - Networking: [PeerJS](https://peerjs.com/) (WebRTC data channels), host-authoritative star topology.
-
----
-
-Made with 🎯 by shrey & Muse
