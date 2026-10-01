@@ -1,6 +1,6 @@
 # 🌀 FLING ARENA
 
-A **10-player battle royale fling battler** for the browser — inspired by the Roblox octagon fling game from [this Instagram reel](https://www.instagram.com/reel/Dd6ipTWORBU/).
+A **10-player battle royale fling battler** for the browser.
 
 **🎮 Play it live:** https://super-starship-01.netlify.app/
 
